@@ -1,0 +1,11 @@
+requirements inicial:
+flask
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+mysql-connector-python
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+
