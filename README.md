@@ -13,7 +13,7 @@ La aplicación implementa un API REST con operaciones CRUD sobre ventas.
 Se incluye una versión adaptada en la carpeta `hf_app` la cual utiliza Gradio para su despliegue en Hugging Face Spaces.
 
 ## Estructura del Proyecto
-ECommerce-Sales-Prediction/
+<pre> ```ECommerce-Sales-Prediction/
 │
 ├── app.py                 API Flask (backend principal)
 ├── model.py               Lógica de predicción
@@ -31,4 +31,4 @@ ECommerce-Sales-Prediction/
 │   ├── *.pkl              Modelo y scalers
 │
 ├── .env.example           Variables sensibles 
-├── .gitignore             Archivos ignorados por Git
+├── .gitignore             Archivos ignorados por Git ``` </pre>
